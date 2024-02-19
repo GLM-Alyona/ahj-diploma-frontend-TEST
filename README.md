@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/f27odr38fyk1g45m?svg=true)](https://ci.appveyor.com/project/GLM-Alyona/ahj-diploma-frontend-test)
 # Chaos Organizer
 
 1. Сохранение в истории ссылок и текстовых сообщений. Все сообщения хранятся на сервере в отдельном массиве.
